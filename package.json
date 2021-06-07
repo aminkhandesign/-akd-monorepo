@@ -1,0 +1,9 @@
+{
+  "name": "akd-monorepo",
+  "version": "1.0.0",
+  "description": "test monorepo",
+  "main": "index.js",
+  "author": "mak art <makart@live.co.uk>",
+  "license": "MIT",
+  "private": true
+}
